@@ -1,0 +1,1 @@
+export const wordString = 'hello word!';
